@@ -4,6 +4,8 @@
 
 This project is a full-stack expense tracker built with **Next.js** for the frontend, **Clerk** for authentication, **Neon DB** as the database, and **Prisma** as the ORM. Track your expenses effortlessly and visualize your spending with a clean, user-friendly interface.
 
+https://expense-tracker-next-js-prisma-mdhq-git-main-krmjn09s-projects.vercel.app/
+
 ## ✨ Features
 
 - 🔐 **Secure Authentication**: Powered by Clerk for seamless and secure user management.
